@@ -20,3 +20,6 @@ wenn möglich Komplettaufbau, ansonsten Teilaufbau
 
 ### Kostenübernahme
 Die Kosten werden zwischen allen teilnehmenden Schülern gleichmäßig aufgeteilt.
+
+### Verhalten beim Bearbeiten des GitHub-Repositories
+Alle Arbeiten sind in den entsprechenden Branches zu erledigen.

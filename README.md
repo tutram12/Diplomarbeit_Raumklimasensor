@@ -1,6 +1,5 @@
 # Diplomarbeit  
-## Enzi, Martinak, Tuttner  
-  
+## Enzi, Martinak, Tuttner   
 ### Idee
 Raumklimamessgerät  
   
@@ -32,8 +31,3 @@ Datum      | Beschreibung                                    |
 23.09.2018 | Fertigstellung Gehäusedesign                    |
 30.11.2018 | Fertigung von Gehäuse und Platinen              |
 28.02.2019 | Fertigstellung der Dokumentation                |
-
-### Verhalten beim Bearbeiten des GitHub-Repositories
-Alle Arbeiten sind in den entsprechenden Branches zu erledigen.  
-Es sollen keine Pull-Requests ohne Absprache mit dem Verwalter des Master-Branches gemacht werden.  
-Es soll sich keiner ohne Absprache in die Arbeiten der Anderen einmischen.  

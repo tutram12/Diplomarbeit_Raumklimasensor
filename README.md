@@ -1,7 +1,5 @@
-# Diplomarbeit  
-## Enzi, Martinak, Tuttner   
-### Idee
-Raumklimamessgerät  
+# Diplomarbeit - Raumklimasensor  
+## Enzi, Martinak, Tuttner    
   
 ### Was soll das Objekt können?
 Es soll die Lautstärke, den CO2-Gehalt und die Temperatur messen.  

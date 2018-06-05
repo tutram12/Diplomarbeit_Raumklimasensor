@@ -6,7 +6,7 @@ Es soll die Lautstärke, den CO2-Gehalt und die Temperatur messen.
 Diese Werte sollen vor Ort verarbeitet und über ein Display am Gerät ausgegeben werden.  
   
 ### Wer übernimmt welchen Teilbereich und möchte welchen Betreuer?
-Mechanik & Zusammenbau:     Enzi Gert mit Fachlehrer Wolfgang Sauer BEd  
+Mechanik & Zusammenbau:     Enzi Gert       mit Fachlehrer Wolfgang Sauer BEd  
 Elektronik & Seneorik:      Martinak Moritz mit AV-Stv. DI Peter Nöhrer  
 Programmierung:             Tuttner Raphael mit DI Manfred Steiner  
   

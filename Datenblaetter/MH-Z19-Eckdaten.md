@@ -1,8 +1,8 @@
-Baudrate: 9600
-Date byte 8 byte
-Stop byte 1 byte
-Parity (check bits) no
+Baudrate: 9600  
+Data byte: 8 byte  
+Stop bits: 1 bit  
+Parity: none  
 
-0x86 Gas Concentration
-0x87 Calibrate zero point(ZERO)
-0x88Calibrate span point(SPAN)
+0x86: Gaskonzentration (CO2)  
+0x87 Calibrate zero point(ZERO)  
+0x88 Calibrate span point(SPAN)  

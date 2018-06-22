@@ -28,4 +28,10 @@ Datum      | Beschreibung                                    |
 23.09.2018 | Erster Test des Gesamtsystems                   |
 23.09.2018 | Fertigstellung Gehäusedesign                    |
 30.11.2018 | Fertigung von Gehäuse und Platinen              |
-28.02.2019 | Fertigstellung der Dokumentation                |
+28.02.2019 | Fertigstellung der Dokumentation                |  
+
+### Troubleshoting  
+Die Ursprüngliche µC-Lösung wäre der Arduino Nano mit dem ATMEGA328P gewesen.  
+Da dieser aber zu wenig Pins für unser Projekt vorweist, sind wir auf ein User-Board  
+mit dem ATMEGA324P umgestiegen. Dieser besitzt 40 Pins, wo der ATMEGA328P nur 32 Pins besitzt.  
+Zudem besitzt der ATMEGA324P über zwei USART-Schnittstellen. Der ATMEGA328P nur über eine.

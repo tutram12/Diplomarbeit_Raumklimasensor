@@ -31,6 +31,7 @@ Datum      | Beschreibung                                    |
 28.02.2019 | Fertigstellung der Dokumentation                |  
 
 ### Troubleshoting  
+#### 21.06.2018
 Die Ursprüngliche µC-Lösung wäre der Arduino Nano mit dem ATMEGA328P gewesen.  
 Da dieser aber zu wenig Pins für unser Projekt vorweist, sind wir auf ein User-Board  
 mit dem ATMEGA324P umgestiegen. Dieser besitzt 40 Pins, wo der ATMEGA328P nur 32 Pins besitzt.  

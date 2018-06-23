@@ -15,3 +15,5 @@ https://www.tindie.com/products/Sandeep_ee/explore-usb-to-serial-breakout-cp2102
 https://www.google.at/search?q=AVR+40+Pin+Breakout+Board+with+Atmega32&oq=AVR+40+Pin+Breakout+Board+with+Atmega32&aqs=chrome..69i57j69i60l3.853j0j4&sourceid=chrome&ie=UTF-8  
 
 https://www.tindie.com/products/Silvius/atmega-dip40-minimal-board-pcb-only/#shipping  
+
+https://jlcpcb.com/

@@ -32,7 +32,7 @@ Datum      | Beschreibung                                    |
 30.11.2018 | Fertigung von Gehäuse und Platinen              |
 28.02.2019 | Fertigstellung der Dokumentation                |  
 
-### Troubleshoting  
+### Troubleshooting  
 #### 21.06.2018
 Die Ursprüngliche µC-Lösung wäre der Arduino Nano mit dem ATMEGA328P gewesen.  
 Da dieser aber zu wenig Pins für unser Projekt vorweist, sind wir auf ein User-Board  

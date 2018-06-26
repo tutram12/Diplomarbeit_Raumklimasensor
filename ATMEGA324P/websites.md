@@ -17,3 +17,6 @@ https://www.google.at/search?q=AVR+40+Pin+Breakout+Board+with+Atmega32&oq=AVR+40
 https://www.tindie.com/products/Silvius/atmega-dip40-minimal-board-pcb-only/#shipping  
 
 https://jlcpcb.com/
+
+http://www.electrodragon.com/product/usb-ttl-serial-ch340-board/  
+

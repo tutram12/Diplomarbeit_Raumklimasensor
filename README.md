@@ -11,7 +11,7 @@ Projektkoordinator: AV-Stv. DI Peter Nöhrer
 Teilbereich      | Diplomant                                    |  Betreuer
 -----------|:------------------------------------------------|:-------------------------------------|  
 Mechanik & Zusammenbau | Enzi Gert                                    | Fachlehrer Wolfgang Sauer BEd
-Elektronik & Sensorik | Martinak Moritz               | AV-Stv. DI Peter Nöhrer
+Elektronik | Martinak Moritz               | AV-Stv. DI Peter Nöhrer
 Software | Tuttner Raphael                    | DI Manfred Steiner
 
   

@@ -6,14 +6,13 @@ Es soll die Lautstärke, den CO2-Gehalt und die Temperatur messen.
 Diese Werte sollen vor Ort verarbeitet und über ein Display am Gerät ausgegeben werden.  
   
 ### Wer übernimmt welchen Teilbereich und möchte welchen Betreuer?  
-Projektkoordinator: AV-Stv. DI Peter Nöhrer  
-  
 Teilbereich      | Diplomant                                    |  Betreuer
 -----------|:------------------------------------------------|:-------------------------------------|  
 Mechanik & Zusammenbau | Enzi Gert                                    | Fachlehrer Wolfgang Sauer BEd
 Elektronik | Martinak Moritz               | AV-Stv. DI Peter Nöhrer
 Software | Tuttner Raphael                    | DI Manfred Steiner
 
+Projektkoordinator: AV-Stv. DI Peter Nöhrer  
   
 ### Aufbauart
 wenn möglich Komplettaufbau, ansonsten Teilaufbau  

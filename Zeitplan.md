@@ -5,4 +5,4 @@ Datum      | Beschreibung                                    | Zeitraum      | A
 19.04.2018 | Zweite Besprechung mit dem Diplomarbeitsbetreuer   | 15:00 - 16:15 | 2              |
 05.06.2018 | Recherche über Programmstrukturen und Ansteuerungsschaltungen   | 09:40 - 12:25 | 3              |
 21.06.2018 | Besprechung der µC-Lösung   | 15:00 - 16:15 | 2              |
-21.06.2018 | Diplomarbeitsorganisation   | 09:55 - 10:45 | 2              |
+03.07.2018 | Diplomarbeitsorganisation   | 09:55 - 10:45 | 2              |

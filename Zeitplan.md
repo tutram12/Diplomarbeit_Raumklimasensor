@@ -6,3 +6,4 @@ Datum      | Beschreibung                                    | Zeitraum      | A
 05.06.2018 | Recherche über Programmstrukturen und Ansteuerungsschaltungen   | 09:40 - 12:25 | 3              |
 21.06.2018 | Besprechung der µC-Lösung   | 15:00 - 16:15 | 2              |
 03.07.2018 | Diplomarbeitsorganisation   | 09:55 - 10:45 | 2              |
+04.07.2018 | Lösung für Stromversorgung   | 08:15 - 09:05 | 1              |

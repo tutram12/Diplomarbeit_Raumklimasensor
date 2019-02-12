@@ -1,5 +1,5 @@
 # Diplomarbeit - Raumklimasensor  
-## Enzi, Martinak, Tuttner    
+## Martinak, Tuttner    
   
 ### Was soll das Objekt können?
 Es soll die Lautstärke, den CO2-Gehalt und die Temperatur messen.  
@@ -8,7 +8,6 @@ Diese Werte sollen vor Ort verarbeitet und über ein Display am Gerät ausgegebe
 ### Wer übernimmt welchen Teilbereich und möchte welchen Betreuer?  
 Teilbereich      | Diplomant                                    |  Betreuer
 -----------|:------------------------------------------------|:-------------------------------------|  
-Mechanik & Zusammenbau | Enzi Gert                                    | Fachlehrer Wolfgang Sauer BEd
 Elektronik | Martinak Moritz               | AV-Stv. DI Peter Nöhrer
 Software | Tuttner Raphael                    | DI Manfred Steiner
 
